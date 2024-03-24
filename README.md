@@ -1,4 +1,4 @@
-# Simple-Tabular-Data-classification
+# Simple-Tabular-Data classification
 
 1. Load data from Google Drive
 1. Data Preprocessing and simple classification
